@@ -44,7 +44,6 @@ CUDA_VISIBLE_DEVICES=0 python main_dg.py --config PACS.yaml --target-domain cart
 CUDA_VISIBLE_DEVICES=0 python main_dg.py --config PACS.yaml --target-domain photo -bp ../
 
 CUDA_VISIBLE_DEVICES=0 python main_dg.py --config PACS.yaml --target-domain sketch -bp ../
-
 ```
 
 The ./model_ckpt for PACS dataset can be downloaded in Baidu Yun:
@@ -62,6 +61,37 @@ The results on PACS dataset for FedDG task is as follows.
 If you find this useful in your work please consider citing:
 ```
 
+```
+
+And there are some federated multi-source domain adaptation methods proposed by us.
+```
+@article{wei2022multi,
+  title={Multi-source collaborative contrastive learning for decentralized domain adaptation},
+  author={Wei, Yikang and Yang, Liu and Han, Yahong and Hu, Qinghua},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2022},
+  publisher={IEEE}
+}
+
+@inproceedings{wei2023exploring,
+  title={Exploring Instance Relation for Decentralized Multi-Source Domain Adaptation},
+  author={Wei, Yikang and Han, Yahong},
+  booktitle={ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE}
+}
+
+@article{wei2022dual,
+  title={Dual collaboration for decentralized multi-source domain adaptation},
+  author={Wei, Yikang and Han, Yahong},
+  journal={Frontiers of Information Technology \& Electronic Engineering},
+  volume={23},
+  number={12},
+  pages={1780--1794},
+  year={2022},
+  publisher={Springer}
+}
 ```
 
 ## Acknowledgments
