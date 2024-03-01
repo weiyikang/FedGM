@@ -63,7 +63,12 @@ The results on PACS dataset for FedDG task is as follows.
 
 If you find this useful in your work please consider citing:
 ```
-
+@article{wei2024multi,
+  title={Multi-Source Collaborative Gradient Discrepancy Minimization for Federated Domain Generalization},
+  author={Wei, Yikang and Han, Yahong},
+  journal={arXiv preprint arXiv:2401.10272},
+  year={2024}
+}
 ```
 
 And there are some federated multi-source domain adaptation methods proposed by us.
