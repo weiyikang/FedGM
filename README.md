@@ -111,4 +111,4 @@ And there are some federated multi-source domain adaptation methods proposed by 
 ```
 
 ## Acknowledgments
-This work is supported by the CAAI-Huawei MindSpore Open Fund. The [MindSpore version](https://gitee.com/luckyyk/fedgm) is implemented by [Li Deng](https://tjumm.github.io/team/), thanks very much.
+This work is supported by the CAAI-Huawei MindSpore Open Fund. The [MindSpore version](https://gitee.com/luckyyk/fedgm) is implemented by [Li Deng](https://tjumm.github.io/team/), thanks very much. The [PyTorch version](https://github.com/weiyikang/FedGM_torch) also has been released.
