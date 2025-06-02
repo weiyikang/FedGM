@@ -78,6 +78,13 @@ If you find this useful in your work please consider citing:
 
 And there are some federated multi-source domain adaptation methods proposed by us.
 ```
+@article{wei2025multi,
+  title={Multi-Source Collaborative Style Augmentation and Domain-Invariant Learning for Federated Domain Generalization},
+  author={Wei, Yikang},
+  journal={arXiv preprint arXiv:2505.10152},
+  year={2025}
+}
+
 @article{wei2023multi,
   title={Multi-Source Collaborative Contrastive Learning for Decentralized Domain Adaptation}, 
   author={Wei, Yikang and Yang, Liu and Han, Yahong and Hu, Qinghua},
